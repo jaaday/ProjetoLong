@@ -5,11 +5,11 @@ public class Operacao {
 	public Operacao(){
 	}
 	
-	public boolean verificarLong(Long num){
+	public boolean verificarLong(Long numero){
 		return true;
 	}
 	
-	public boolean verificarLong(Integer num) {
+	public boolean verificarLong(Integer numero) {
 		return false;
 	}
 }
